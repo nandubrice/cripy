@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cripy/static/css/main.073c9b0a.css",
+    "main.js": "/cripy/static/js/main.98918b71.js",
+    "static/js/787.0461806e.chunk.js": "/cripy/static/js/787.0461806e.chunk.js",
+    "static/media/logo.svg": "/cripy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cripy/index.html",
+    "main.073c9b0a.css.map": "/cripy/static/css/main.073c9b0a.css.map",
+    "main.98918b71.js.map": "/cripy/static/js/main.98918b71.js.map",
+    "787.0461806e.chunk.js.map": "/cripy/static/js/787.0461806e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.98918b71.js"
+  ]
+}
