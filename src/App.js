@@ -12,7 +12,7 @@ function App(){
       <h1>Practicas... React</h1>
       <P1Componente/>
       <br />
-      <P2Contador/>
+      <P2Estado/>
       <br />
       <C03componenteConCss/>
       <br />
