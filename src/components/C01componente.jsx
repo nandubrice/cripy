@@ -1,13 +1,17 @@
 /////////////////////////////////////////////////////
 ////////// 1. Componente tipo JSX ///////////////////
 /////////////////////////////////////////////////////
-import React from 'react';                      //imr
+import React from 'react'                      //imr
 
-const Componente = () => {                      //sfc
-    return ( <h1>Componente (JSX)</h1> );
+const C01componente = () => {                      //sfc
+    return(
+        <div>
+            Componente definido como funcion flecha (rafce)
+        </div>
+    )
 }
  
-export default Componente;
+export default C01componente
 
 /////////////////////////////////////////////////////
 ////////// 2. Componente clase //////////////////////

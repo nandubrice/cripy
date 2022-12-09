@@ -1,32 +1,16 @@
-import React from "react";
-import Componente from './components/P1componente';
-import Contador from './components/P2contador';
-import Contador2 from './components/P3dobleestado';
-import Variable from './components/P4variable';
-import Matriz from './components/P6matriz';
-import MatrizOperaciones from './components/P7matrizOperaciones';
+import C01componente from "./components/C01componente";
+import C02contador from "./components/C02contador";
+import C03estilosConCss from "./components/C03estilosConCss";
 
 function App(){
-  return (
-    <div className="App">
-      <h1>Practicas... React</h1>
-      <P1Componente/>
-      <br />
-      <P2Estado/>
-      <br />
-      <C03componenteConCss/>
-      <br />
-      <EjemploDeEstado/>
-      <br />
-      <EjemploDeDobleEstado/>
-      <br />
-      <ComponenteConVariable xVariable="Hola mundo... desde... react"/>
-      <br />
-      <OperadorTernario xEdad ="20" />
-      <br/>
-      <Matriz/>
+  return(
+    <div>
+      <C01componente />
+      <hr/>
+      <C02contador />
+      <hr/>
+      <C03estilosConCss />
     </div>
   );
 }
-
 export default App;
